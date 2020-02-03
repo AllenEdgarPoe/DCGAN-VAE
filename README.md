@@ -1,7 +1,8 @@
 # DCGAN
 -----------------------
 * DCGAN_celeba.ipynb : DCGAN network using "celeba" dataset <br>
-* DCGAN_cifar10.ipynb : DCGAN network using "cifar-10" dataset
+* DCGAN_cifar10.ipynb : DCGAN network using "cifar-10" dataset <br>
+* VAE_celeba.ipynb : VAE network using "celeba" dataset
 <br>
 1. DCGAN_celeba <br>
 
