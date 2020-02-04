@@ -1,4 +1,6 @@
 # DCGAN
+This repository contains various generative models with well-known dataset, celeba and cifar-10 using pytorch library.
+Ongoing... 
 -----------------------
 * DCGAN_celeba.ipynb : DCGAN network using "celeba" dataset <br>
 * DCGAN_cifar10.ipynb : DCGAN network using "cifar-10" dataset <br>
@@ -11,5 +13,6 @@
 
 
 2. VAE_celeba <br>
+1) semi-test result with epoch 1 
 
 ![ezgif-6-5acf4a6deb02](https://user-images.githubusercontent.com/43398106/73629415-6a427380-4696-11ea-884d-e8ebdea5957a.gif)
