@@ -3,8 +3,10 @@ This repository contains various generative models with well-known dataset, cele
 Ongoing... 
 -----------------------
 * DCGAN_celeba.ipynb : DCGAN network using "celeba" dataset <br>
+* DCGAN.7zip: Pycharm Project of DCGAN network. Can be edited even better than jupyter notebook. 
 * DCGAN_cifar10.ipynb : DCGAN network using "cifar-10" dataset <br>
 * VAE_celeba.ipynb : VAE network using "celeba" dataset
+
 <br>
 1. DCGAN_celeba <br>
 
