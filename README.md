@@ -14,6 +14,11 @@ Ongoing...
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/43398106/73553876-09484f00-448e-11ea-9092-95797122d40d.gif)
 
 
+*Trained with anime-face dataset (epoch 15)
+
+![anime_face](https://user-images.githubusercontent.com/43398106/74607491-980acc00-511c-11ea-90ba-9376076ee3e3.gif)
+
+
 2. VAE_celeba <br>
 ### semi-test result with epoch 1 
 
